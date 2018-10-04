@@ -6,7 +6,7 @@
 
 ## Astuce pour le recrutement:
 * vous devez faire un fork du projet
-* mettez le projet forker dans votre local
+* mettez le projet forker dans votre local. La base du site se trouve à la racine du projet: test-recrutement-wordpress.sql
 * faite vos modification 
 * Puis faire un push sur le projet forker et crée un pull-request avec votre nom ex : (Ratongaranto lee) 
 * Apres ca nous vérifions les répertoires et fichiers modifier (verification du pull-request)
@@ -15,6 +15,5 @@
 
 ### Remarque
 au cas ou il aurait des requêtes SQL a exécuté il faut mettre les requêtes a lancer dans les commentaire du pull-request.
-La base du site se trouve à la racine du projet: test-recrutement-wordpress.sql
 
 #merci de votre collaboration ®Softibox
