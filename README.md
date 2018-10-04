@@ -1,11 +1,10 @@
 # Recrutement: Test wordpress
-=============================================================
-## L'objectif :
+
+## L'objectif de ce test est de voir:
 * Votre niveau en compréhension, analyse / conception
 * Votre manière de coder et la qualité de votre code
 
-## Astuce pour le recrutement
-* Astuce pour le recrutement
+## Astuce pour le recrutement:
 * vous devez faire un fork du projet
 * mettez le projet forker dans votre local
 * faite vos modification 
@@ -16,5 +15,6 @@
 
 ### Remarque
 au cas ou il aurait des requêtes SQL a exécuté il faut mettre les requêtes a lancer dans les commentaire du pull-request.
+La base du site se trouve à la racine du projet: test-recrutement-wordpress.sql
 
 #merci de votre collaboration ®Softibox
