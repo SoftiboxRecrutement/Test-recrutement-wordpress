@@ -3,9 +3,11 @@
 ## L'objectif de ce test est de voir:
 * Votre niveau en compréhension, analyse / conception
 * Votre manière de coder et la qualité de votre code
+* Votre maitrise de wwordpress
 
 ## Astuce pour le recrutement:
-* vous devez faire un fork du projet
+* vous devez créer un compte sur github
+* vous devez faire un fork du projet à partir de votre compte
 * mettez le projet forker dans votre local. La base du site se trouve à la racine du projet: test-recrutement-wordpress.sql
 * faite vos modification 
 * Puis faire un push sur le projet forker et crée un pull-request avec votre nom ex : (Ratongaranto lee) 
